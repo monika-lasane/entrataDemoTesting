@@ -1,3 +1,5 @@
+# This is standalone file that I have written for my understanding
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
